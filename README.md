@@ -1,6 +1,6 @@
-# Finance Agentic AI System
+# Financial Agentic AI System
 
-This repository demonstrates a Finance Agentic AI system with specialized agents that autonomously gather information and perform tasks using various tools. It includes an agent for web search, a financial analysis agent, and a multi-agent system that combines both.
+This repository demonstrates a Financial Agentic AI system with specialized agents that autonomously gather information and perform tasks using various tools. It includes an agent for web search, a financial analysis agent, and a multi-agent system that combines both.
 
 ## Overview
 
