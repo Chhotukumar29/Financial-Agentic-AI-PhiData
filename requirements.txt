@@ -1,0 +1,10 @@
+phidata             # use for working with PHI (Protected Health Information) data
+python-dotenv       # use for loading environment variables from a .env file
+yfinance            # use for fetching financial data and historical market data from Yahoo Finance
+packaging           # use for handling and managing Python package versions and dependencies
+fastapi             # use for building fast APIs with Python, typically for real-time data
+uvicorn             # use as an ASGI server to run FastAPI applications
+duckduckgo-search   # use for searching the web using the DuckDuckGo search engine
+groq                # use for querying and interacting with Groq models or databases 
+openai              # use for interacting with OpenAI's models, including GPT and other AI tools.
+
